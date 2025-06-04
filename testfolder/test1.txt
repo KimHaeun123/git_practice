@@ -2,6 +2,3 @@ hi
 nice to meet you
 hello
 hello1
-hello2
-hello7
-hellohello
