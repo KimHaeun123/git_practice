@@ -66,3 +66,9 @@ git stash pop
 git stash list
 # 저장목록 전체삭제
 git stash clear
+
+# tag관련 명령어
+# 가장 최신의 commit에 tag가 명시
+git tag 태그버전명
+# tag release : 코드의 commit, push와 상관없이 별개로 작업진행
+git push origin 태그버전명
